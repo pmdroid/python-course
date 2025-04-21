@@ -139,6 +139,15 @@ bool("")     # False
 bool("text") # True
 ```
 
+### Exercise 1: Calculator
+
+Create a simple calculator that:
+1. Asks the user for two numbers
+2. Performs addition, subtraction, multiplication, and division
+3. Prints the results with appropriate labels
+
+**Hint**: Use `input()` to get user input, but remember it returns strings! Convert to numbers before calculating.
+
 ## Module 1.2: Control Flow (if/else, loops)
 
 ### Conditional Statements
